@@ -1,2 +1,3 @@
 - wireshark
 - zenmap based on map
+- nm-applet
