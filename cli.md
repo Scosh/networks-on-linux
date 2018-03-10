@@ -1,8 +1,12 @@
 # network analysis
-  - nmap
+- nmap
 
 
 # basic
-  - ip
-  - iw
-  - ss
+- ip
+- iw
+- ss
+
+- wpa_supplicant
+- dhcpcd
+- NetworkManager
