@@ -1,4 +1,4 @@
-# network-on-linux
+# networks-on-linux
 contains the names of useful programs and libraries for network managing
 
 ### Other repositories in this series
