@@ -1,5 +1,5 @@
 # networks-on-linux
-contains the names of useful programs and libraries for network managing
+Contains the names of useful programs and libraries for network management.
 
 ### Other repositories in this series
 - [graphics-on-linux](https://github.com/InnayTool/graphics-on-linux)
